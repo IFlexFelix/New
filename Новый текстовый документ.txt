@@ -1,0 +1,6 @@
+$ git config --global user.name "IFlexFelix"
+$ git config --global user.email div25467@gmail.com
+
+git config --global user.name "IFlexFelix". // тут пишите свое имя
+git config --global user.email div25467@gmail.com // тут свою почту, на которую
+вы привязали GitHub аккаунт
